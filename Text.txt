@@ -1,0 +1,16 @@
+#include<stdio.h>
+#define _CRT_SECURE_NO_WARNNINGS
+
+int main()
+{
+
+
+	return 0;
+}
+
+
+int  x;
+	x = 6;
+	printf("%d\n", x);
+	printf("the size of the x is %d", sizeof(x));
+	_getch();
